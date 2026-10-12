@@ -38,6 +38,17 @@ This project demonstrates how an Arduino can read distance measurements from an 
 | Buzzer positive | Digital pin 8 |
 | Buzzer negative | GND |
 
+## Circuit Screenshots
+
+### Circuit overview
+![Circuit overview](images/Circuit.png)
+
+### Safe distance
+![Safe distance](images/Safe_distance.png)
+
+### Warning zone
+![Warning zone](images/Warning_zone.png)
+
 ## How It Works
 
 The HC-SR04 sends an ultrasonic pulse and measures the time taken for its echo to return. 
